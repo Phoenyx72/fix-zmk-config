@@ -33,7 +33,7 @@
                         bindings = <
    &kp ESC    &kp EXCL &kp AT  &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS &kp ASTRK &kp LPAR &kp RPAR &kp TAB
    &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &kp MINUS &kp EQUAL &kp LBKT &kp RBKT &kp BSLH &kp GRAVE
-   &kp LALT &kp UNICODE_00E1 &kp UNICODE_00E9 &kp UNICODE_00ED &kp UNICODE_00F3 &kp UNICODE_00FA &kp UNDER &kp PLUS &kp LBRC &kp RBRC &kp PIPE &kp DEL
+   &kp LALT &unicode 00E1 &unicode 00E9 &unicode 00ED &unicode 00F3 &unicode 00FA &kp UNDER &kp PLUS &kp LBRC &kp RBRC &kp PIPE &kp DEL
    &kp LGUI &trans &kp SPACE &kp SPACE &trans &kp RET
                         >;
                 };
